@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    background-image: url('https://www.w3schools.com/w3images/space.jpg'); /* Replace this URL with your space image URL */
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    font-family: 'Inter', sans-serif;
+  }
+}
+
+@keyframes starfield {
+  0% {
+    background-position: 0 0;
+  }
+  100% {
+    background-position: 100% 100%;
+  }
+}
+
+.starfield {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url('https://plus.unsplash.com/premium_photo-1682023585957-f191203ab239?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8dGhpbmtpbmclMjBlbW9qaXxlbnwwfHwwfHx8MA%3D%3D'); /* Replace with your star field image */
+  animation: starfield 50s linear infinite;
+  z-index: -1;
+}
+
+.bg-white {
+  background-color: rgba(255, 255, 255, 0.8); /* Semi-transparent white background */
+  box-shadow: 0 0 15px rgba(255, 255, 255, 0.5);
+}
+
+button {
+  border: 2px solid rgba(255, 255, 255, 0.7);
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);
+}

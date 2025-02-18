@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which of the following is a type of join in SQL?",
+    "options": [
+      "INNER JOIN",
+      "OUTER JOIN",
+      "LEFT JOIN",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "question": "What is a foreign key in a database?",
+    "options": [
+      "A key used to link two tables together",
+      "A key used to secure a database",
+      "A key used to delete records",
+      "A key used to encrypt data"
+    ],
+    "answer": "A key used to link two tables together"
+  }
+]

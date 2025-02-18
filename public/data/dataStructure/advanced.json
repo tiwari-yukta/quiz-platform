@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which of the following is true about a B-tree?",
+    "options": [
+      "It is a binary search tree with a height-balanced structure",
+      "It is a balanced search tree where each node can have more than two children",
+      "It is an unbalanced tree",
+      "It is used for storing dynamic data only"
+    ],
+    "answer": "It is a balanced search tree where each node can have more than two children"
+  },
+  {
+    "question": "What is the space complexity of an AVL tree?",
+    "options": [
+      "O(n)",
+      "O(log n)",
+      "O(n log n)",
+      "O(1)"
+    ],
+    "answer": "O(n)"
+  }
+]

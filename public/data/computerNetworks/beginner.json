@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the primary purpose of DNS?",
+    "options": [
+      "To convert domain names into IP addresses",
+      "To store data in a distributed manner",
+      "To encrypt network traffic",
+      "To route data packets"
+    ],
+    "answer": "To convert domain names into IP addresses"
+  },
+  {
+    "question": "What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "High Transfer Text Protocol",
+      "HyperText Transmission Protocol",
+      "Hyper Transfer Text Protocol"
+    ],
+    "answer": "HyperText Transfer Protocol"
+  }
+]

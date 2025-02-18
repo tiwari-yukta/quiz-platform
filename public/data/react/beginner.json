@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is JSX in React?",
+    "options": [
+      "JavaScript Syntax Extension",
+      "Java Standard XML",
+      "JavaScript Execution",
+      "JSON Syntax Extension"
+    ],
+    "answer": "JavaScript Syntax Extension"
+  },
+  {
+    "question": "Which function is used to update the state in React?",
+    "options": [
+      "setState()",
+      "updateState()",
+      "setValue()",
+      "changeState()"
+    ],
+    "answer": "setState()"
+  },
+  {
+    "question": "What is the purpose of the 'render' method in React?",
+    "options": [
+      "To display HTML output",
+      "To change state",
+      "To make API calls",
+      "To handle events"
+    ],
+    "answer": "To display HTML output"
+  },
+  {
+    "question": "What is the default value of the 'key' prop in React?",
+    "options": [
+      "A unique identifier",
+      "A boolean value",
+      "A reference to the component",
+      "A static string"
+    ],
+    "answer": "A unique identifier"
+  },
+  {
+    "question": "Which lifecycle method is called after a component is rendered for the first time?",
+    "options": [
+      "componentDidMount()",
+      "componentDidUpdate()",
+      "componentWillUnmount()",
+      "componentWillMount()"
+    ],
+    "answer": "componentDidMount()"
+  }
+]

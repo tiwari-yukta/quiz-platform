@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is a linked list?",
+    "options": [
+      "A list where elements are stored in adjacent memory locations",
+      "A data structure where each element points to the next element",
+      "A structure for storing key-value pairs",
+      "A tree structure with nodes and edges"
+    ],
+    "answer": "A data structure where each element points to the next element"
+  },
+  {
+    "question": "What is the time complexity of bubble sort?",
+    "options": [
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "answer": "O(n^2)"
+  }
+]
