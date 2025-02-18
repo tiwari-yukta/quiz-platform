@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the primary function of the transport layer in the OSI model?",
+    "options": [
+      "To route packets to the destination",
+      "To ensure end-to-end communication reliability",
+      "To manage IP addressing",
+      "To handle data encryption"
+    ],
+    "answer": "To ensure end-to-end communication reliability"
+  },
+  {
+    "question": "What is the difference between TCP and UDP?",
+    "options": [
+      "TCP is connectionless, and UDP is connection-oriented",
+      "TCP is faster than UDP",
+      "UDP is connectionless, and TCP is connection-oriented",
+      "TCP and UDP are identical"
+    ],
+    "answer": "UDP is connectionless, and TCP is connection-oriented"
+  }
+]

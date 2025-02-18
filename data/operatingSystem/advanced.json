@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which of the following algorithms is used for process scheduling in operating systems?",
+    "options": [
+      "Round Robin",
+      "Quick Sort",
+      "Dijkstra's Algorithm",
+      "Prim's Algorithm"
+    ],
+    "answer": "Round Robin"
+  },
+  {
+    "question": "What is the purpose of virtual memory?",
+    "options": [
+      "To increase the speed of the CPU",
+      "To allow processes to access more memory than physically available",
+      "To store data permanently",
+      "To manage user permissions"
+    ],
+    "answer": "To allow processes to access more memory than physically available"
+  }
+]

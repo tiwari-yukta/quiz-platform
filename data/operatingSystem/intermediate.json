@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is a deadlock in an operating system?",
+    "options": [
+      "When processes are in an infinite loop",
+      "When a process waits indefinitely for a resource",
+      "When the system crashes",
+      "When the CPU is overloaded"
+    ],
+    "answer": "When a process waits indefinitely for a resource"
+  },
+  {
+    "question": "What is the purpose of a semaphore in an operating system?",
+    "options": [
+      "To handle process synchronization",
+      "To schedule processes",
+      "To manage CPU time",
+      "To protect against viruses"
+    ],
+    "answer": "To handle process synchronization"
+  }
+]

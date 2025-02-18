@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Which of the following protocols operates at the network layer of the OSI model?",
+    "options": [
+      "TCP",
+      "IP",
+      "UDP",
+      "HTTP"
+    ],
+    "answer": "IP"
+  },
+  {
+    "question": "What is a subnet mask used for in IP addressing?",
+    "options": [
+      "To determine the network address and the host address",
+      "To convert IP addresses into human-readable form",
+      "To encrypt the IP packet",
+      "To handle routing decisions"
+    ],
+    "answer": "To determine the network address and the host address"
+  }
+]
