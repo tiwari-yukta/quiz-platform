@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the main advantage of a doubly linked list over a singly linked list?",
+    "options": [
+      "Doubly linked lists are more memory efficient",
+      "Doubly linked lists allow traversal in both directions",
+      "Doubly linked lists are faster to implement",
+      "Doubly linked lists take up less space"
+    ],
+    "answer": "Doubly linked lists allow traversal in both directions"
+  },
+  {
+    "question": "What is the time complexity of quicksort in the worst case?",
+    "options": [
+      "O(n^2)",
+      "O(n log n)",
+      "O(n)",
+      "O(log n)"
+    ],
+    "answer": "O(n^2)"
+  }
+]

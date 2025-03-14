@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the main function of the operating system?",
+    "options": [
+      "To manage hardware resources",
+      "To run applications",
+      "To connect devices to the network",
+      "To handle user authentication"
+    ],
+    "answer": "To manage hardware resources"
+  },
+  {
+    "question": "What does the kernel do in an operating system?",
+    "options": [
+      "Manages memory",
+      "Interprets user commands",
+      "Manages file systems",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  }
+]

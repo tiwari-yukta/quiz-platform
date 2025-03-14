@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is React's Virtual DOM?",
+    "options": [
+      "A lightweight copy of the real DOM",
+      "The real DOM used by React",
+      "A temporary storage for components",
+      "A database for managing data"
+    ],
+    "answer": "A lightweight copy of the real DOM"
+  },
+  {
+    "question": "What is React.memo used for?",
+    "options": [
+      "To optimize performance by memoizing a component",
+      "To store local component state",
+      "To manage component lifecycle",
+      "To trigger re-renders when props change"
+    ],
+    "answer": "To optimize performance by memoizing a component"
+  },
+  {
+    "question": "What is the purpose of the `key` prop in lists in React?",
+    "options": [
+      "To provide a unique identifier for each element",
+      "To track the order of list items",
+      "To make list items accessible",
+      "To optimize rendering speed"
+    ],
+    "answer": "To provide a unique identifier for each element"
+  },
+  {
+    "question": "What is the difference between `useEffect` and `useLayoutEffect`?",
+    "options": [
+      "useEffect runs after render, useLayoutEffect runs before",
+      "useLayoutEffect runs after render, useEffect runs before",
+      "There is no difference",
+      "useEffect is for state management, useLayoutEffect is for DOM updates"
+    ],
+    "answer": "useEffect runs after render, useLayoutEffect runs before"
+  },
+  {
+    "question": "How can you optimize React performance for large lists?",
+    "options": [
+      "By using `React.memo`",
+      "By using `useEffect`",
+      "By using `React.PureComponent`",
+      "By using virtualization libraries like react-window"
+    ],
+    "answer": "By using virtualization libraries like react-window"
+  }
+]
