@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is a primary key in a database?",
+    "options": [
+      "A key used to identify each record uniquely",
+      "A key that stores passwords",
+      "A key used for indexing",
+      "A key used to delete records"
+    ],
+    "answer": "A key used to identify each record uniquely"
+  },
+  {
+    "question": "What is normalization in databases?",
+    "options": [
+      "The process of organizing data to reduce redundancy",
+      "The process of backing up data",
+      "The process of indexing tables",
+      "The process of querying data"
+    ],
+    "answer": "The process of organizing data to reduce redundancy"
+  }
+]

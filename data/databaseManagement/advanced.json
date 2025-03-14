@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is the ACID property in databases?",
+    "options": [
+      "Atomicity, Consistency, Isolation, Durability",
+      "Authentication, Configuration, Integration, Deployment",
+      "Application, Consistency, Indexing, Design",
+      "Access Control, Integrity, Data"
+    ],
+    "answer": "Atomicity, Consistency, Isolation, Durability"
+  },
+  {
+    "question": "What is a stored procedure in a database?",
+    "options": [
+      "A precompiled collection of SQL statements",
+      "A command to delete a table",
+      "A type of database backup",
+      "A method to optimize queries"
+    ],
+    "answer": "A precompiled collection of SQL statements"
+  }
+]

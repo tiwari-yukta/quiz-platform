@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What is a controlled component in React?",
+    "options": [
+      "A component that uses state to manage form inputs",
+      "A component that doesn't use state",
+      "A component that manages its own lifecycle",
+      "A component that uses external data"
+    ],
+    "answer": "A component that uses state to manage form inputs"
+  },
+  {
+    "question": "What is React Context used for?",
+    "options": [
+      "Managing local component state",
+      "Sharing data between components without props",
+      "Managing API requests",
+      "Managing server-side state"
+    ],
+    "answer": "Sharing data between components without props"
+  },
+  {
+    "question": "What is the main purpose of React hooks?",
+    "options": [
+      "To manage component lifecycle",
+      "To add lifecycle methods to class components",
+      "To manage state and side effects in functional components",
+      "To convert functional components to class components"
+    ],
+    "answer": "To manage state and side effects in functional components"
+  },
+  {
+    "question": "How do you handle events in React?",
+    "options": [
+      "By using event listeners",
+      "By passing functions as props to the component",
+      "By binding methods in the constructor",
+      "By using the `onEventName` prop directly"
+    ],
+    "answer": "By using the `onEventName` prop directly"
+  },
+  {
+    "question": "What does the `useEffect` hook do in React?",
+    "options": [
+      "Executes code after the component renders",
+      "Re-renders the component when state changes",
+      "Updates component props",
+      "Changes the component state"
+    ],
+    "answer": "Executes code after the component renders"
+  }
+]
